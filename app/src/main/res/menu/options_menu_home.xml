@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tambah_menu"
+        android:title="@string/tambah"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/image_menu"
+        android:title="@string/gambar_masakan"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/about_menu"
+        android:title="@string/about"
+        app:showAsAction="never"
+        />
+</menu>
